@@ -1,0 +1,5 @@
+print(bin(123456))
+print(oct(123456))
+print(hex(123456))
+print("{: <20}".format("Python"))
+print("{: >18,.2f}".format(70305084.0))
